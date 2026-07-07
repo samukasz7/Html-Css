@@ -1,2 +1,2 @@
 # Html Css
-Projeto simples de login
+Projeto simples de HTML e CSS
